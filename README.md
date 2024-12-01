@@ -1,4 +1,4 @@
-# قالب اخنصاصی مرزبان و مرزنشین | MarzViteTemplate
+# قالب اختصاصی مرزبان و مرزنشین | MarzViteTemplate
 
 ## Desktop View
 ![image](https://github.com/user-attachments/assets/b85a9158-8a77-44ba-92c3-297a13ac2c72)
